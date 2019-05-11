@@ -3,7 +3,7 @@ from gym import error, spaces, utils
 from gym.utils import seeding
 from time import sleep
 
-class gym-en_harv(gym.Env):
+class gym_en_harv(gym.Env):
 	metadata = {'render.modes': ['human']}
 
 

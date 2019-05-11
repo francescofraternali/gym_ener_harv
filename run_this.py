@@ -1,6 +1,6 @@
 import gym
-import gym_tictac4
-env = gym.make('tictac4-v0')
+import gym_en_harv
+env = gym.make('gym_en_harv-v0')
 
 #import gym
 #env = gym.make("CartPole-v1")
